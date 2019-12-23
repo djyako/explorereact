@@ -1,2 +1,2 @@
 # explorereact
-This is for my friend
+This is for my friends
